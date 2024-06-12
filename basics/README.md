@@ -1,1 +1,0 @@
-# Holberton School Shell Projects
